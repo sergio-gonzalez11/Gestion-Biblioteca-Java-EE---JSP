@@ -1,0 +1,132 @@
+body {
+	background-color: #FFCB70;
+	font-family:Verdana, Geneva, sans-serif;
+}
+#container {
+	display: block;
+	background-color: #3FD7D5;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size:16px;
+}
+#header {
+	background-image: url(http://www.lasmercedes.edu.co/corporacion/hermesoft/portalIG/home_1/recursos/recursos2010/14062016/banner_biblioteca.jpg);
+	height: 175px;
+	width: 800px;
+
+}
+#menu{
+	font-size: 16px;
+	width: 640px;
+	height: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 8px;
+	margin-bottom: 10px;
+}
+#diverror{
+  font-size: 16px;    
+  color:#610B21;         
+  width: 640px; 
+  height: 60px;       
+  margin-right: auto;   
+  margin-left: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color:#ffe6e6;
+  border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 0px solid #000000;
+}
+#diverror p{
+   padding-left:40px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+#divconfirmacion{
+  font-size: 16px;    
+  color:#009930;         
+  width: 640px; 
+  height: 60px;       
+  margin-right: auto;   
+  margin-left: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color:#e6ffee;
+  border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 0px solid #000000;
+}
+#divconfirmacion p{
+   padding-left:40px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+#paginacion{
+	margin-left:125px;
+}
+#registro{
+	float:right;
+}
+.formulariogeneral{
+    font-size: 16px;
+	width: 515px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+.formulariogeneral fieldset legend{
+	background: url(../img/azarquiel.gif) no-repeat left;
+    padding: 0px 5px 0px 20px;
+}
+/*
+.formulariogeneral fieldset  input{
+	padding: 5px;
+	border-radius: 7px;
+	border: none;
+}*/
+.advertencia{
+	font-size: 20px;
+	color:red;
+}
+a {
+	color: #483211;
+	text-decoration:none;
+}
+a:hover{
+	color: #EDE2D1;
+	background-color: #483211;
+}
+#tabla {
+	font-size: 18px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+table{
+	
+	border-collapse: collapse;
+}
+#tabla th {
+	color: #FFFFFF;
+	background-color: #FF8836;
+}
+#tabla tr {
+	text-align:center;
+	/*background-color: #E7E7E7;*/
+}
+#tabla caption {
+	color: #FFFFFF;
+	border: 6px outset #483211;
+	background-color: #483211;
+	font-size:36px;
+	margin-top:5px;
+}
